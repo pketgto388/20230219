@@ -189,7 +189,7 @@ body {
   z-index: 2;
 }
 .join-form .join-form-content .content-wrap {
-  background: rgba(14, 50, 80, 0.9);
+  background: rgba(21, 109, 182, 0.9);
   display: flex;
   width: 100%;
 }
@@ -279,7 +279,7 @@ body {
 }
 .flow .flow-text {
   position: absolute;
-  background: blue;
+  background: rgb(64, 32, 204);
   padding: 20px;
   border-radius: 10px;
   left: 50%;
